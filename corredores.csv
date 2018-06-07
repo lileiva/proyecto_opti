@@ -1,0 +1,533 @@
+nombre;genero;edad
+Benjamin andres vasquez figueroa;m;juvenil
+Daniel esteban hernandez ardura;m;sub_23
+Martin abel araya saavedra;m;sub_23
+Alberto ignacio campos mardones;m;sub_23
+Francisco andres escobar chavez;m;sub_23
+Daigorot munoz cortez;m;sub_23
+Heraldo andres contreras luengo;m;sub_23
+Jose francisco cardoza fuentes;m;elite
+Tomas sanhueza vasquez;m;elite
+Carlos javier arriagada fredes;m;elite
+Augusto cortes labrin;m;elite
+Diego francisco ayala romero;m;elite
+Hjalmar petersen;m;elite
+Rodrigo fonseca;m;elite
+Sebastian alberto miranda marquez;m;elite
+Sebastian alexis maldonado maldonado;m;elite
+Matias eduardo balboa jara;m;elite
+Rodrigo andres coronel fuentealba;m;elite
+Francisco javier beroiza castillo;m;elite
+Daryl edgardo gonzalez hernandez;m;masterA
+Gonzalo eduardo gracia loch;m;masterA
+Pablo marquez mardones;m;masterA
+Luis campos;m;masterA
+Cristian hernan quevedo quevedo;m;masterA
+Fernando andres madariaga alarcon;m;masterA
+Eduardo lacoste fuentes;m;masterA
+Mauricio alejandro joel cid jara;m;masterA
+Alex manuel marquez fuentes;m;masterA
+Alberto riquelme toledo;m;masterA
+Michel paillacar arcos;m;masterA
+Ivan munoz;m;masterA
+Cristian catalan toledo;m;masterA
+Nestor jimenez saez;m;masterA
+Yanco campos;m;masterB
+Michael alejandro bianchi gajardo;m;masterB
+Gonzalo alejandro acuna galvez;m;masterB
+Gerardo andres perez lagos;m;masterB
+Cristian eduardo vilugron aravena;m;masterB
+David alejandro rozas cassanelli;m;masterB
+Gonzalo edgardo escobar ortega;m;masterB
+Sebastian ignacio castillo castro;m;masterB
+Raul adolfo benitez cravero;m;masterB
+Jorge luis benitez;m;masterB
+Edgardo antonio salazar quinteros;m;masterB
+Andres patricio navarrete corsini;m;masterB
+Maximilian mendez fuentes;m;masterB
+Gerson lefno;m;masterB
+Mario benedicto diaz escobar;m;masterC
+Celso marcelo villanueva vera;m;masterC
+Pol hector quezada castillo;m;masterC
+Sergio arturo yanez sanhueza;m;masterC
+Rodrigo medina buhlmann;m;masterC
+Gonzalo francisco castro vera;m;masterC
+Manuel martinez lema;m;masterC
+Francisco venegas alvez;m;masterC
+Alejandro lara luer;m;masterC
+Pablo andres novoa barra;m;masterD
+Felipe gallegos vargas;m;masterD
+Pablo morgado puga;m;masterD
+Andres casanueva catalan;m;masterD
+Sergio valenzuela sepulveda;m;masterD
+Leonardo a. torres salazar;m;masterD
+Sergio ivan gaete diez;m;masterD
+Sergio ruben morales saez;m;masterD
+Christian marcelo andrade riquelme;m;masterD
+Ricardo alejandro toro mendez;m;masterD
+Fabian rosales;m;masterD
+Renato luis soto;m;masterD
+Carlos hernan encina zamora;m;masterE
+Juan manuel gonzalez figari;m;masterE
+Marco rojas;m;masterE
+Gabriel cortes-monroy gandolfi;m;masterE
+Marco antonio sobarzo torres;m;masterE
+Joel andres vasquez gonzalez;m;masterE
+Rodolfo rogazy berg;m;masterE
+Leonel ivan gonzalez henriquez;m;masterE
+Cristian quezada gonzalez;m;masterE
+Jose andres jarpa faundes;m;masterE
+Patricio vaelnzuela diaz;m;masterE
+Ivan alvarez poblete;m;masterE
+Jose antonio palma rico;m;masterE
+Manuel alfonso cortes gallegos;m;masterE
+Mario enrique hermosilla villa;m;masterE
+Rene paz;m;masterE
+Hans clausdorff ulriksen;m;masterE
+Placido palacios saavedra;m;masterE
+Angela francisca conejero jara;f;sub_23
+Paulina cartes contreras;f;elite
+Sandra de la torre_otro corre;f;elite
+Daniela maribel fucha lien;f;elite
+Loreto del rocio cruz silva;f;elite
+Mara vera;f;elite
+Josselin gomez faundez;f;elite
+Nancy andrea diaz romero;f;masterB
+Andrea lorena porro;f;masterB
+Paola lorena moreno;f;masterB
+Carolina villa;f;masterB
+Lily veronica rojas aedo;f;masterB
+Laura milena koch zuniga;f;masterB
+Loreto del carmen silva brunetti;f;masterC
+Jeannette mora;f;masterC
+Maria de la luz hurtado;f;masterC
+Isabel toro ruiz-tagle;f;masterC
+Sandra de la torre;f;masterC
+Mayte riveros aranda;f;masterC
+Sundblad fernandez felipe;m;masterA
+Silva ibaceta cristobal;m;masterB
+Speratti rodriguez nicolas pablo;m;masterB
+Martinez flores walter andres;m;elite
+Rodrigiez soriano ariel;m;masterC
+Fabila lotina roberto andres;m;sub_23
+Biazzo garrido jorge arturo;m;masterA
+Humire encalada cristian alejandro;m;elite
+Naciff hauway flavio alejandro;m;elite
+Aravena rojas victor manuel;m;masterB
+Voto guigon carlos francisco;m;masterB
+Modrow amigo max alberto;m;elite
+Labra brito claudio patricio;m;masterC
+Romero ibanez leonardo andres;m;masterA
+Alarcon mery constantino samuel;m;masterB
+Figueroa vega patricio alexis;m;masterC
+Rojas rojas luis enrique;m;masterD
+Aguilar isla nelson enrique;m;masterA
+Cammisi alonso joaquin;m;masterA
+Lescoulie gomez carlos fabian;m;masterD
+Cesario farias enzo bruno;m;masterB
+Cerda fuentes victor;m;elite
+Quesada santivanez antonio vicente;m;masterA
+Pastor martinez carlos rafael;m;masterC
+Villalobos astudillo danilo;m;masterA
+Canas . mariano;m;masterB
+Gamboa vanderlaat andres;m;masterB
+Pleitavino buffa diego ruben;m;masterB
+Morales pacheco augusto;m;masterB
+Silva azevedo vinicius;m;masterA
+Juez perez antonio;m;masterD
+Pereiro oscar;m;masterC
+Alfaro piceros patricio;m;masterB
+Duran faundez pedro;m;masterE
+Ferrer bazan sergio enrique;m;masterE
+Aviles rojas oscar enrique;m;elite
+Rojo cornejo jose antonio;m;masterC
+Bonansea daruich washington;m;masterE
+Gonzalez aguilera juan pablo;m;masterA
+Moreno santibanez jose miguel;m;sub_23
+Villalobos yufla diego;m;juvenil
+Palma cesar fausto;m;sub_23
+Canete moreschi alejandro daniel;m;masterD
+Flores pineda cristian alejandro;m;masterC
+Coro gamarra hector ramon;m;masterD
+Portilla rivera deny camilo;m;juvenil
+Speratti rodriguez guillermo manuel;m;masterD
+Delgado moreno claudio ademir;m;masterE
+Riffo castro daniel elias;m;masterA
+Figueroa santos sergio rodrigo;m;masterB
+Zuniga castilllo eduardo darrel;m;sub_23
+Hinojosa urrutia angel patricio;m;masterA
+Cifuentes perez fabian alexander;m;masterB
+Fuentes carrazco pedro fernando;m;masterB
+Perez adasme cristian emmanuel;m;elite
+Salguero lugones ricardo hernan;m;masterD
+Domian marsin frederic;m;masterC
+Ramirez fernandez pablo;m;masterB
+Montesinos olmos german montesinos;m;masterC
+Da costa borgeaud julio alejandro;m;masterA
+Banchero fitzsimons santiago alberto;m;masterE
+Trigo marcelo danny alfonso;m;masterA
+Perez balles carlos fernando;m;elite
+Camacho toledo diego marcelo;m;masterB
+Morales guzman felipe andres;m;masterB
+Siguenza siguenza luis;m;masterB
+Ribet monsalvo mariano emilio;m;masterD
+Munizaga cortes german eduardo;m;masterE
+Vargas cabero hugo alberto;m;masterB
+Cano didonatto mario adrian;m;masterB
+Suarez ruiz ezequiel alberto;m;elite
+Cortez reyes jorge;m;masterC
+Gimenez mur german alejandro;m;masterA
+Gervasini bassi mauro hernan;m;masterB
+Cifuentes riffo leandro andres;m;masterA
+Castellaro martel martin castellaro;m;masterC
+Miranda castillo marco antonio;m;masterA
+Puga babarovich marcelo marcelo;m;masterD
+Moracho torrente javier;m;masterE
+Silva parra mauricio andres;m;masterB
+Quezada quezada eliseo juvenal;m;masterB
+Silva bermar roberto;m;masterC
+Garcia santibanez rolando daniel;m;elite
+Ortiz molano juan;m;masterB
+Williams gonzalez juan pablo;m;masterA
+Fernandez perez durbad elexis;m;juvenil
+Fatigatti sale jorge ignacio;m;masterB
+Torres urbina benito andres;m;masterA
+Barraza merino ivan alfonso;m;masterB
+Anzola hortua ricardo;m;masterE
+Sapunar nunez pedro antonio;m;masterE
+Evelyn munoz;f;elite
+Juliano marimon sebastian daniel;m;masterC
+Jara neira sebastian alonso;m;masterA
+Lopez urbina manuel ;m;masterB
+Amarilla guillermo alejandro;m;masterD
+Martinez ariella ezequiel rene;m;elite
+Luque munoz rafael de la rosa;m;masterD
+Gonzalez benitez cristian andres;m;elite
+Pino godoy hernan ricardo;m;sub_23
+Soto leon aaron francisco;m;juvenil
+Jimenez cacerez alejandro;m;masterC
+Velosa santanilla ramiro;m;masterE
+Egana arriagada cristian alberto;m;masterD
+Carrascosa pastinante david;m;masterC
+Medina tapia mauricio arturo;m;masterC
+Marmol zurita patricio patricio;m;masterD
+Rojas pons eric hernan;m;masterD
+Martinez sanchez leonardo esteban;m;masterA
+Gonzalez mansilla mauricio fernando;m;masterB
+Rivera saavedra miguel jaime;m;masterD
+Sahr barros cristobal cristobal;m;masterB
+Lopez cereceda claudio andres;m;masterC
+Gama gonzalez antonio;m;masterA
+Franulovich guerra rodrigo andres;m;masterB
+Figueroa colunga leonel nicolas;m;sub_23
+Abarza lozano maribel tatiana;f;masterA
+Espinoza casanovas hector javier;m;masterB
+Veliz mercado luis alexander;m;masterB
+Palacios villa eduardo enrique;m;masterE
+Bognanno david alejandro;m;masterD
+Alarcon cortes juan pablo;m;masterA
+Rodriguez taborda neri alejandro;m;masterB
+Araya carvajal patricio alberto;m;masterA
+Boldu balmaceda augusto martin jose;m;masterD
+Campana parra sergio andres;m;masterA
+Gonzalez contador paul enrique;m;masterD
+Mora miranda henry;m;masterA
+Vides suarez cecilio damian;m;elite
+Cordova munoz christian eduardo;m;masterC
+Olivares fernandez guillermo patricio;m;masterD
+Lopez rebolledo javier hernan;m;masterD
+Carrasco leiva julio edgardo;m;masterB
+Faure araya claudia leticia;f;masterB
+Quiroz espinoza marcelo marcelo;m;masterE
+Caicedo amaya ivan camilo;m;masterB
+Delgado delgado jaime francisco;m;masterA
+Gost herrera andrea celia;f;elite
+Gerstle martinez jose;m;masterE
+Castorina cejas gaston humberto;m;masterC
+Bordachar bordachar francisco javier;m;masterE
+Prado alcalde raimundo;m;elite
+Valdes maturana christian alexis;m;masterC
+Mourgues gutierrez waldo arturo;m;masterE
+Varela estellano daniel eliseo;m;masterE
+Aranguiz koch milton alberto;m;masterE
+Merlo casavega martin ariel;m;masterC
+Ricotti cruz edison gerardo;m;masterA
+Soler castellini diego cesar;m;masterE
+Hernandez inostroza jorge francisco;m;masterA
+Garrido rodriguez pablo andres;m;masterD
+Alvarez marchant carlos anes;m;masterC
+Munoz gonzalez claudio andres;m;masterC
+Borgogno gay emanuel;m;masterB
+Sartori delguste martin luciano;m;masterB
+Gutierrez fullana romina belen;f;elite
+Rollhauser ruppel alejandro jose;m;masterC
+Menini perez angel oscar;m;masterE
+Felipe martinez jose ignacio;m;elite
+Sayavedra cruz diego martin;m;masterB
+Chambret fernandez daniel armando;m;masterE
+Felipe martinez adolfo;m;masterB
+Dumke . michael;m;masterD
+Ainol mensing sebastian andres;m;elite
+Gajardo palou alejandra;f;masterC
+Carcuro urresti giovanni michele;m;masterC
+Herrera cuevas cristian rodrigo;m;masterC
+Gonzalez gonzalez ruben andres;m;masterB
+Prado rodriguez manuel alejandro;m;masterA
+Benavides salazar ricardo alejandro;m;masterB
+Cocimano cordero diego adrian;m;masterD
+Musi benavidez gaston musi;m;masterD
+Vaca jaramillo willan esteban;m;masterD
+Pardino salina luis ezequiel;m;masterA
+Cayo gaspar walter alejandro;m;masterD
+Vera valencia juan jose;m;elite
+Olivares angulo alejandro antonio;m;masterC
+Alvarez flores aldo antonio;m;sub_23
+Bizama olate victor ignacio;m;sub_23
+Lacoste lopez francisco ernesto;m;masterC
+Toro godoy roberto eduardo;m;masterA
+Lovato lovato jorge alberto;m;masterD
+Montoya omar;m;masterB
+Zapata poblete hector francisco;m;masterB
+Luque barrios eduardo luque;m;elite
+Ubiedo viera diego martin;m;masterB
+Herrera cabezas claudio;m;masterD
+Cuevas martinez gary williams;m;masterA
+Olivares angulo juan pablo;m;masterB
+Bleckwedel sherriff rodolfo;m;masterE
+Hermosilla araneda juan alejandro;m;masterC
+Sensaud chiavaro sergio christian;m;masterD
+Calderon ramirez daniel angel;m;masterE
+Vasquez fernandez hector ignacio;m;elite
+Vargas mogro gerardo;m;masterE
+Sgheiz bordigoni sebastian sgheiz;m;masterB
+Abarca morales mitchel igor;m;masterA
+Zaza romano matias ezequiel;m;masterB
+Galarce roa daniel antonio;m;masterE
+Diaz ogaz gonzalo antonio;m;masterC
+Brito peterson sebastian;m;masterE
+Nunez bortairy jose florencio;m;masterE
+Romero cordova carolina elena;f;masterA
+Munoz lobos claudio alfonso;m;masterD
+Salgado contreras felipe andres;m;elite
+Arellano garcia oscar danubio;m;masterE
+Gonzalez casanova ricardo antonio;m;masterC
+Borquez segovia francisco javier;m;masterB
+Silva sanchez carlos francisco;m;masterD
+Jofre carmona pablo alejandro;m;masterD
+Valenzuela ramirez julio ignacio;m;masterC
+Munoz ruiz carlos rodrigo;m;masterE
+Diaz gomez mauro esteban;m;masterC
+Perez quilodran edagardo mauricio;m;masterC
+Becker portillo federico ;m;masterB
+Santander urra jonathan alejandro;m;elite
+Escobar ceballos claudia alejandra;f;masterD
+Frontera quiroga dario oscar;m;masterD
+Colipi salgado pablo andres;m;masterB
+Lopez palomo rodolfo daniel;m;masterE
+Beresvil gasser marcelo omar;m;masterE
+Doria cortes raul;m;masterE
+Donoso moreno rodrigo antonio;m;masterA
+Baglietto fitzsimons guillermo;m;masterE
+Corral callegari ignacio;m;juvenil
+Zerda figueroa isolina ;f;sub_23
+Cabrera godoy andres;m;masterB
+Perez carbajal eduardo rafael;m;masterE
+Lapelle gaitano mario alberto;m;masterB
+Taverne hot pablo;m;masterE
+Mortarini olivares alejandro alejandro;m;masterD
+Gantz vives jose tomas;m;masterB
+Mercado rene eduardo;m;masterE
+Trujillo vasquez randy andres;m;masterA
+Kreutzberger kellendonk claudio;m;masterD
+Egana cortes raul antonio;m;masterC
+Bozzone freiman luis maria;m;masterD
+Fuentes valladares rodrigo andres;m;masterB
+Lopez rios osvaldo;m;masterE
+Zamorano zuleta lucas fabian;m;juvenil
+Ochoa ibanez gustavo marcelo;m;masterE
+Cabrera aliaga franz omar;m;masterE
+Rebolledo fernandez andres alejandro;m;masterB
+Leon meneses enrique antonio;m;masterB
+Karmelic pavlov rayko alejandro;m;masterE
+Bravo castro sebastian enrique;m;masterA
+Marcos butty ruben patricio;m;masterE
+Cainzo fernandez gustavo adolfo ;m;masterE
+Vaz mezquita jose gonzalo;m;masterC
+Valdivia guzman tomas pablo;m;masterA
+Foitzick garrido armin rodolfo;m;masterA
+Perdomo lorenzo jose;m;masterD
+Faerman arnoldt juan andres;m;masterC
+Rojas fernandez michael patricio;m;masterA
+Zamorano cortez gerardo jose;m;masterC
+Saravia stein francisco;m;masterB
+Hernandez roa wbeimar arnulfo;m;masterC
+Fermin nieves enrique jose;m;masterC
+Vera diaz rodrigo;m;masterC
+Carvallo arenas alejandro antonio;m;masterA
+Uribe crisostomo luis antonio;m;masterD
+Pereira joao;m;masterE
+Oliva astudillo cristobal;m;masterC
+Marigual fernandez jorge alberto;m;masterD
+Arce bustos andres fernando;m;masterC
+Perez gonzalez alvaro cristian;m;masterE
+Trejo rizaa ricardo pablo;m;masterE
+Burgos jara victor onofre;m;masterA
+Giuliani luchini maria laura;f;masterD
+Corral macias jose;m;masterE
+Soto beltran waldo francisco;m;masterC
+Fajardo alarcon rodrigo antonio;m;masterB
+Norambuena caceres miguel angel;m;masterC
+Gonzalez poblete cristian marcelo;m;masterB
+Zepeda alvarez silvio angello;m;masterD
+Isla zeballos luis alberto;m;masterB
+Concha pacheco juan carlos;m;masterE
+Roman ponce marcelo;m;masterE
+Burgos petit felipe javier;m;masterB
+Mellace castellano maximo federico;m;masterC
+Fernandez lopez manuel hernan;m;masterA
+Misan aguero rodolfo luis;m;masterD
+Corral macias victor andres;m;masterE
+Borquez hernandez isadora pia;f;sub_23
+Diaz silva mijael;m;elite
+Warnier hermansen mikael;m;masterE
+Cuevas barrios leonelo sebastian;m;masterA
+Fernandez munita osvaldo;m;masterE
+Diaz ardila franklin diogenes;m;masterE
+Garcia gnecco santiago alberto;m;elite
+Olguin guerra alejandra pamela;f;masterC
+Vasquez sanchez nadia macarena;f;elite
+Callegari panizza claudia;f;masterE
+Rodriguez jorge enrique;m;masterC
+Alcarruz quilodran brian carlos;m;elite
+Lopez castellaro jaime antonio;m;masterC
+Borrowman aroca george andrew;m;masterD
+Acevedo arancibia humberto andres;m;masterA
+Helt mariano;m;masterC
+Soares - valquiria valquiria;f;elite
+Vaca jaramillo luis fernando;m;masterC
+Mercerat milewski fernando luis;m;masterE
+Giraldo davila andres felipe;m;masterB
+Hinrichs rosello alfredo eduardo;m;masterE
+Zambrano aravena norman;m;masterE
+Sambarino saura ulises nestor;m;masterE
+Ross dirsch michael alexander;m;masterA
+Valerio valerio jose carlos;m;masterE
+Mongelos pankow oscar osvaldo;m;masterE
+Morales fuentes sebastian ignacio;m;masterA
+Denegri sanz mario horacio;m;masterB
+Boetsch vicuna francisco;m;masterE
+Hughes garcia david rene;m;masterE
+Saseta saseta vilma saseta;f;masterE
+Alfaro lopez richard alejandro;m;masterD
+Pizarro zuleta victor david;m;masterA
+Saavedra zavala eslainer alejandro;m;masterA
+Bravo castro nelson andres;m;masterB
+Bagnato chapuis osvaldo luis;m;masterD
+Cespedes astorga jorge marcelo;m;masterB
+Esparza landero raul alejandro;m;masterB
+Locher krause walter erwin;m;masterD
+Vega leal joel jonatan;m;masterA
+Garcia delevaux hector ulises;m;masterA
+Waelder christian;m;masterD
+Ballestero moya vladimir;m;masterD
+Calleja leonicio antonio alejandro;m;masterD
+Quiroz monzon javier ;m;masterC
+Saavedra schulte christian gaston;m;masterC
+Van aken ramirez christian carlos;m;masterC
+Santamaria ardila daniel andres;m;masterB
+Torres quinones marcelo eduardo;m;masterD
+Caballero canales maria fernanda;f;masterC
+Moreyra teodoroff julio daniel;m;masterE
+Delpiano troncoso enrique nunuez;m;masterC
+Gonzalez abalos luis carlos;m;masterB
+Molina salinas marcelo;m;masterD
+Ugalde yanez jorge diego;m;masterE
+Zanuzzi copelli gustavo adolfo;m;masterE
+Aguirre ortiz camilo;m;masterC
+Ardaya vasquez juan walter;m;masterE
+Choca puchalvert ricardo martin;m;masterE
+Escarate loyola jose ;m;masterB
+Carmona navarrete jose manuel;m;masterE
+Veliz esparza karen gicela;f;masterB
+Munoz bravo francisco marcial;m;masterB
+Garcia oliveros carlos;m;masterB
+Pacheco vera ignacio;m;sub_23
+Godoy banda beatriz elizabeth;f;masterC
+Neira lopez esteban alejandro;m;masterB
+Munoz medina manuel alfredo;m;masterD
+Oliva barni hernan alberto;m;masterA
+Varas rodriguez francisco javier;m;masterE
+Diaz barrera miguel alejandro;m;masterB
+Ortiz vallejos marcos antonio;m;masterE
+Cucchiaro etcheverry gabriel ramiro;m;masterC
+Valencia salinas sergio rafael;m;masterE
+Mericq guila rodrigo javier;m;masterE
+Rettig espinoza karin;f;masterE
+Silva pereira pablo leandro;m;elite
+Jofre moreno alejandro ariel;m;masterA
+Ceriche carrasco luis alberto;m;masterB
+Kimeswenger . stefan;m;masterE
+Curbelo perez carlos javier;m;masterD
+Bossa palazzesi maximiliano matias;m;masterB
+Carreno raimilla luis lisandro;m;masterB
+Vela barcas gerardo;m;masterD
+Pavanato pavanato antonio carlos;m;masterE
+Palacios pedro;m;masterE
+Zaragoza magni oscar alberto;m;masterE
+Perez diaz celso alfredo;m;masterE
+Corales picardo eduardo emilio;m;masterE
+Perez andariena david alejandro;m;masterB
+Agu garcia allende pablo javier;m;masterD
+Kemenchelli perez jorge carlos;m;masterB
+Medina maschio walter sebastian;m;masterB
+Rojas nunez moises alejandro;m;masterE
+Smith amunategui jose cristian;m;masterD
+Rojas barrantes freddy adolfo;m;masterE
+Ibar marquez gonzalo andres;m;masterB
+Soto valenzuela jaime ignacio;m;elite
+Rojas tejeda guillermo jorge;m;masterE
+Benavente rivera carlos eduardoo;m;masterA
+Diaz zamora victor patricio;m;masterD
+Segura segura luis arturo segura;m;masterE
+Castillo rezabala fernanda;f;masterB
+Iceta baeza antonio andres;m;masterC
+Nunez anziani maria antonieta;f;masterD
+Tulipan sellanes holber;m;masterE
+Nunez sanchez enrique gabriel;m;masterB
+Espinoza valenzuela pablo cesar;m;masterD
+Flores soto elizabeth del carmen;f;masterB
+Soria galvarro martinez natalie ;f;masterA
+Sanchez marquez luis manuel;m;masterA
+Pavanato nadia;f;masterE
+Cordoba macarrein fabian pedro;m;masterD
+Villegas gutierrez oscar julian;m;masterA
+Soliz cronembold walter miguel;m;masterA
+Quezada perez carla;f;elite
+Pinilla cea jose luis;m;elite
+Barbosa suarez luis felipe;m;masterE
+Sepulveda streb claudio ramiro;m;masterD
+Vicente groetaers enrique;m;masterD
+Padilla fajardo alex;m;masterC
+Iturbe urrea sebastian ignacio;m;masterB
+Reyes aymani erwin adolfo;m;masterB
+Cifuentes cabrera pablo nicolas;m;sub_23
+Torres valencia john ;m;masterA
+Marin pedro;m;masterE
+Almonacid bielefeld victor horacio;m;masterD
+Salgado alvarez danilo antonio;m;masterE
+Jara molina ramon ernesto;m;masterD
+Pucheta luna carlos vicente;m;masterE
+Figuero ceron mariano;m;masterB
+Crisostomo morales mauricio ;m;masterE
+Blanco parra benjamin david;m;masterC
+Canepa labarca carlos;m;masterD
+Dominici defelitto nicolas;m;elite
+De castro gribel eduardo;m;masterE
+Echeverria yanez alfonso;m;masterE
+Lopez lopez jorge gustavo;m;masterE
+Contreras oyarce benito alejandro;m;masterE
+Segovia rojas carlos alexis;m;masterB
+Villarroel vicencio luis alberto;m;masterD
+Campos kiliman ezequiel;m;masterC
+Suarez bartolini daniel alberto;m;masterD
+Rodriguez la fuente juan ernesto;m;masterC
